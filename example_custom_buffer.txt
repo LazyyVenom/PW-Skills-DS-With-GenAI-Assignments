@@ -1,0 +1,1 @@
+This is an example of custom buffering in file writing.This is an example of custom buffering in file writing.
