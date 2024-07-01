@@ -1,1 +1,23 @@
-INFO:root:This is a Log Message
+DEBUG:root:Variable Value: 0
+DEBUG:root:Variable Value: 1
+DEBUG:root:Variable Value: 2
+DEBUG:root:Variable Value: 3
+DEBUG:root:Variable Value: 4
+DEBUG:root:Variable Value: 5
+DEBUG:root:Variable Value: 6
+DEBUG:root:Variable Value: 7
+DEBUG:root:Variable Value: 8
+DEBUG:root:Variable Value: 9
+DEBUG:root:Input = 10
+INFO:__main__:Starting factorial calculation for: 5
+DEBUG:__main__:Entering factorial: n=5
+DEBUG:__main__:Entering factorial: n=4
+DEBUG:__main__:Entering factorial: n=3
+DEBUG:__main__:Entering factorial: n=2
+DEBUG:__main__:Entering factorial: n=1
+DEBUG:__main__:Base case reached: n=1, returning 1
+DEBUG:__main__:Returning from factorial: n=2, result=2
+DEBUG:__main__:Returning from factorial: n=3, result=6
+DEBUG:__main__:Returning from factorial: n=4, result=24
+DEBUG:__main__:Returning from factorial: n=5, result=120
+INFO:__main__:Factorial of 5 is 120

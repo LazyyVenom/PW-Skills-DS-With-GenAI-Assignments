@@ -1,0 +1,12 @@
+2024-07-01 22:17:56,444 - __main__ - INFO - Starting factorial calculation for: 5
+2024-07-01 22:17:56,444 - __main__ - DEBUG - Entering factorial: n=5
+2024-07-01 22:17:56,444 - __main__ - DEBUG - Entering factorial: n=4
+2024-07-01 22:17:56,444 - __main__ - DEBUG - Entering factorial: n=3
+2024-07-01 22:17:56,444 - __main__ - DEBUG - Entering factorial: n=2
+2024-07-01 22:17:56,444 - __main__ - DEBUG - Entering factorial: n=1
+2024-07-01 22:17:56,444 - __main__ - DEBUG - Base case reached: n=1, returning 1
+2024-07-01 22:17:56,444 - __main__ - DEBUG - Returning from factorial: n=2, result=2
+2024-07-01 22:17:56,449 - __main__ - DEBUG - Returning from factorial: n=3, result=6
+2024-07-01 22:17:56,449 - __main__ - DEBUG - Returning from factorial: n=4, result=24
+2024-07-01 22:17:56,449 - __main__ - DEBUG - Returning from factorial: n=5, result=120
+2024-07-01 22:17:56,449 - __main__ - INFO - Factorial of 5 is 120
