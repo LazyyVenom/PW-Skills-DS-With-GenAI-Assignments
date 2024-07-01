@@ -1,0 +1,2 @@
+2024-07-01 22:27:18,458 - __main__ - INFO - Successfully converted input to integer: 10
+2024-07-01 22:27:18,458 - __main__ - DEBUG - Execution of get_integer_input is complete.
